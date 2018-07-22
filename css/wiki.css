@@ -1,0 +1,21 @@
+body {
+   background-color: #f0f8ff;
+}
+.color {
+   background-color: #f0f8ff;
+   font-size: 50px;
+   color: black;
+   text-align: center;
+}
+.a {
+   font-size: 35px;
+   background-color: white;
+   color: red;
+}
+.b {
+   box-shadow: 5px 5px #ffffff;
+}
+.c {
+   box-shadow: 5px 5px;
+   font-size: 50px;
+}
